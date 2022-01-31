@@ -1,0 +1,49 @@
+.Estilo {
+    background-color: #584142;
+    font-family: 'Cookie', cursive;
+    font-style: normal;
+    font-size: 40px;
+    color: seashell;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(44, 48, 48);
+}
+
+.estiloh1 {
+    width: 1300px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#paragrafo2 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: smaller;
+    color: rgb(44, 48, 48);
+
+}
+
+.fotoDay {
+    border-radius: 50%;
+    width: 200px;
+}
+
+ul {
+    color: rgb(44, 48, 48);
+}
+
+#sobremim {
+    text-align: center;
+}
+
+a {
+    color: rgb(19, 1, 32);
+    text-decoration: none;
+
+}
